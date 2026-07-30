@@ -6,5 +6,5 @@
 
 **Projects**
 
-- [Project_Qeat](https://github.com/jhkim2da/Project_Qeat)
+- [qeat-backend](https://github.com/jhkim2da/Project_Qeat)
 - [congraduation-backend](https://github.com/congraduation-team/congraduation-backend)
