@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhkim2da&show_icons=true&theme=default)
 
 <!--
 **jhkim2da/jhkim2da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
