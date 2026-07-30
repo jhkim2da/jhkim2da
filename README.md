@@ -1,4 +1,4 @@
-**Hi, I'm Junghyun Kim 👋**
+### Hi, I'm Junghyun Kim 👋
 
 **About Me**
 
