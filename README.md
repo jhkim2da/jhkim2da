@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![junghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자명)&hide=stars,contribs&count_private=true&show_icons=true&&theme=radical)](https://github.com/jhkim2da/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhkim2da&show_icons=true&theme=default)
 
 
 <!--
