@@ -1,15 +1,6 @@
 ## Hi there 👋
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhkim2da&show_icons=true&theme=default)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhkim2da&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhkim2da&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jhkim2da)
-
-
 <!--
 **jhkim2da/jhkim2da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
