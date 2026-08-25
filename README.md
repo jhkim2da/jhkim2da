@@ -2,9 +2,9 @@
 
 <p align="left">
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img width="400" src="https://github-stats-extended.vercel.app/api?username=jhkim2da" alt="Junghyun's GitHub stats" />
+    <img width="200" src="https://github-stats-extended.vercel.app/api?username=jhkim2da" alt="Junghyun's GitHub stats" />
   </a>
-  <img width="400" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jhkim2da" alt="Top Langs" />
+  <img width="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jhkim2da" alt="Top Langs" />
 </p>
 
 ## About Me
