@@ -36,4 +36,9 @@
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-000000?style=flat-square&logo=auth0&logoColor=white)
 
+## Project
+
+- congraduation : 기획 및 백엔드 개발 <sub>(2026.07. ~ )</sub>
+- gitddo : 백엔드 개발 <sub>(2026.08. ~ )</sub>
+- qeat : 기획 및 백엔드 개발 <sub>(2025.12. ~ 2026.03.)</sub>
 
