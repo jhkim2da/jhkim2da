@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://github.com/stats-organization/github-stats-extended">
-    
+    <img width="300" height="180" src="https://github-stats-extended.vercel.app/api?username=jhkim2da" alt="Junghyun's GitHub stats" />
   </a>
   <img width="300" height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jhkim2da&layout=compact" alt="Top Langs" />
 </p>
